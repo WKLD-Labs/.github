@@ -27,9 +27,10 @@ Our team consists of passionate developers with strong knowledge of their specia
 
 Explore our repositories to discover the exciting projects we're working on. Feel free to contribute by providing feedback or use our open-source tools to power your own innovations.
 
-### Sample Repositories
+### Our Repositories
 
 1. [wkldLabs Frontend](https://github.com/WKLD-Labs/frontend): Frontend for our main product: wkldLabs. Created with Preact and Tailwind
+2. [wkldLabs Backend](https://github.com/WKLD-Labs/backend): API Backend for wkldLabs. Rest API with Express and Sequelize
 
 ## Contact Us
 
