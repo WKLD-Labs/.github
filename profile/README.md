@@ -17,9 +17,9 @@ At wkldLabs, we envision a future where Indonesia is recognized as a leading hub
 Our team consists of passionate developers with strong knowledge of their specialized fields.
 
 - [Adam Rafif Faqih](https://github.com/AdamRFaqih) (Backend Developer)
-- [Habli Zulvana Ath-Thaariq](https://github.com/)
-- [Maximus Bayu](https://github.com/)
-- [Muhamad Ilham Nasrullah](https://github.com/)
+- [Habli Zulvana Ath-Thaariq](https://github.com/HelloWorldYessir420)
+- [Maximus Bayu](https://github.com/MaximusBayu)
+- [Muhamad Ilham Nasrullah](https://github.com/nasrulilham)
 - [Muhammad Isa Al Anshori](https://github.com/misaalanshori) (Frontend Developer)
 - [Nabiel Prayoga Budiana](https://github.com/)
 
